@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MySubmission</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="description">Deskripsi</string>
+    <string name="secondio_prawiro">Secondio Prawiro</string>
+    <string name="social_media">\@_secondio10</string>
+    <string name="profile">Profile</string>
+    <string name="email">kristinarrang08@gmail.com</string>
+    <string-array name="data_name">
+        <item>Monkey D. Luffy</item>
+        <item>Roronoa Zoro</item>
+        <item>Sanji</item>
+        <item>Shanks</item>
+        <item>Jinbei</item>
+        <item>Rob Lucci</item>
+        <item>Portgas D. Ace</item>
+        <item>Trafalgar D. Law</item>
+        <item>Charlotte Katakuri</item>
+        <item>Donquixote Doflamingo</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Luffy, juga dikenal sebagai "Luffy Topi Jerami" dan umumnya sebagai "Topi Jerami", adalah pendiri dan kapten dari Bajak Laut Topi Jerami yang semakin terkenal dan kuat, serta yang paling kuat dari petarung topnya.</item>
+        <item>Zoro adalah pria tinggi berotot dengan kulit berwarna coklat cerah. Dia selalu membawa ketiga pedangnya, terbungkus dengan haramaki berwarna hijau di atas pinggul kanannya, sehingga dia dengan mudah menarik pedang menggunakan tangan kiri.</item>
+        <item>Sanji adalah seorang pemuda yang bertubuh tipis namun kekar, berkaki panjang dan berambut pirang. Ciri khas Sanji adalah rambut pirangnya yang melambai hingga ke muka menutupi salah satu mata. Pada awal seri, hanya mata kanan yang terlihat.</item>
+        <item>Shanks adalah seorang pendekar pedang dan dia menggunakan pedang bernama. Nama pedang Shanks adalah Gryphon. Saat ini, tidak ada informasi tentang nilai Gryphon, dan selanjutnya tidak diketahui apakah itu Meito atau bukan. Shanks bukanlah bajak laut yang sangat kuat sejak awal hidupnya.</item>
+        <item>"Jinbei ( ジンベエ Jinbē? )" atau yang dijuluki "Knight of the Sea" adalah seorang mermen spesies hiu paus dan merupakan anggota Bajak Laut Topi Jerami, melayani sebagai juru mudi dalam petualangannya saat ini bersama mereka.</item>
+        <item>Rob Lucci adalah Cipher Pol agen Pemerintah Dunia dan anggota CP0. Awalnya, dia diperkenalkan sebagai bagian dari CP9, yang terkenal sebagai anggota terkuat dalam sejarah unit pembunuh.</item>
+        <item>Portgas D. Ace (ポートガス・D・エース Pōtogasu D. Ēsu), dikenal dengan julukan "Tinju Api Ace" (Hiken no Ace) adalah komandan Divisi ke-2 Bajak Laut Shirohige. Ia adalah anak kandung Raja Bajak Laut, Gol D. Roger dengan pasangannya Portgas D. Rouge, lalu diselamatkan diam-diam oleh Laksamana Madya Angkatan Laut Garp, kakek Luffy atas permintaan Roger</item>
+        <item>Trafalgar D. Water Law adalah kapten sekaligus dokter Bajak Laut Jantung, merupakan salah satu bajak laut rookie yang di labeli sebagai Eleven Supernova dengan nilai bounty sebesar Berry 200.000.000. Ia berasal dari North Blue.</item>
+        <item>Charlotte Katakuri adalah putra kedua Big Mom. Dia adalah adik dari Charlotte Perospero, yang merupakan putra pertama sang Yonko. Terungkap juga kalau Katakuri sebenarnya lahir kembar tiga bersama Oven dan Daifuku.</item>
+        <item>Donquixote Doflamingo adalah putra dari Donquixote Homing dan saudara dari Donquixote Rosinante. Awalnya berasal dari Marijoa, dia ikut ayahnya meninggalkan tanah Tenryuubito itu untuk hidup sebagai orang biasa. Doflamingo kemudian berkembang menjadi penjahat yang perannya sangat vital di dunia hitam One Piece.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>@drawable/luffy</item>
+        <item>@drawable/zoro</item>
+        <item>@drawable/sanji</item>
+        <item>@drawable/shanks</item>
+        <item>@drawable/jinbei</item>
+        <item>@drawable/lucci</item>
+        <item>@drawable/ace</item>
+        <item>@drawable/law</item>
+        <item>@drawable/katakuri</item>
+        <item>@drawable/doflamingo</item>
+    </string-array>
+
+</resources>
